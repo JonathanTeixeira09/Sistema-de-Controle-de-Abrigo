@@ -50,7 +50,7 @@
         
         <form name="formLogin">
             @csrf
-            <img class="mb-4" src="img/logo3.png" alt="logo" width="282" height="77">
+            <img class="mb-4" src="img/logo3.png" alt="logo" width="290" height="100">
 
             <div class="alert alert-danger d-none messageBox" role="alert">
 

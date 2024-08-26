@@ -3,7 +3,7 @@
 namespace Database\Seeders;
 
 use Illuminate\Database\Seeder;
-use App\models\NivelAcesso;
+use App\Models\NivelAcesso;
 
 class NivelAcessoTableSeeder extends Seeder
 {

@@ -3,7 +3,8 @@
 namespace Database\Seeders;
 
 use Illuminate\Database\Seeder;
-use App\models\Bairro;
+use App\Models\Bairro;
+use Illuminate\Support\Facades\DB;
 
 class BairroTableSeeder extends Seeder
 {
@@ -15,7 +16,7 @@ class BairroTableSeeder extends Seeder
     public function run()
     {
         
-        \DB::table('bairros')->insert(array (
+        DB::table('bairros')->insert(array (
             0 =>
             array (
                 'nome' => 'Agro-Industrial',

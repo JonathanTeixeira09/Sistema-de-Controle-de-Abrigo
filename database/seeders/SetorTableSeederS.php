@@ -3,7 +3,7 @@
 namespace Database\Seeders;
 
 use Illuminate\Database\Seeder;
-use App\models\Setor;
+use App\Models\Setor;
 
 class SetorTableSeederS extends Seeder
 {
