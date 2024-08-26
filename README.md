@@ -27,4 +27,4 @@ Este é o primeiro projeto desenvolvido para a disciplina de **Aplicativos para 
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seuusuario/sistema-gestao-abrigados.git
+   git clone https://github.com/JonathanTeixeira09/Sistema-de-Controle-de-Abrigo.git
